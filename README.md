@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Sowdesh
 
-## 📖 About Me
+## 📖 About Me 👑
 I'm an enthusiastic developer with a deep interest in mobile and web application development.
 I am familiar with Android Studio and the MERN stack, and I'm always learning new things and expanding my knowledge using software like Blender and Unity.
 I'm a good communicator and leader who works well in collaborative environments.
 
 ## 🛠️ Skills
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Mobile Development:** Android Studio
-- **3D Modeling and AR/VR Development:** Unity, Blender
-- **Soft Skills:** Team leadership, effective communication
+- ♾️**Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 📱**Mobile Development:** Android Studio
+- 💫**3D Modeling and AR/VR Development:** Unity, Blender
+- 📚💥**Soft Skills:** Team leadership, effective communication
 
 ## 🌱 Learning and Growth
 I'm always eager to learn new technologies and improve my skills. Currently, I am diving deeper into:
